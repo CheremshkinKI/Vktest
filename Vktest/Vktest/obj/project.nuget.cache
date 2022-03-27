@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFqU/I4csA5nRQV2VfVl83Fa4ihpq60O/ypZt/4HC5jp0npzQB2uQStfu6QJDisw7iahBSJsE/PSptcCwBeL9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kirill\\source\\repos\\Vktest\\Vktest\\Vktest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirill\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\kirill\\.nuget\\packages\\npgsql\\7.0.0-preview.2\\npgsql.7.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\kirill\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\kirill\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\kirill\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kirill\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
